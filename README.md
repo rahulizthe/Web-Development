@@ -26,7 +26,7 @@ Welcome to my web development repository! This space documents my day-to-day pro
 ## 📂 Repository Structure
 
 ```text
-.
+
 ├── 01-..../      
 ├── 02-...../        
 ├── 03-....../        
