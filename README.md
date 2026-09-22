@@ -27,8 +27,13 @@ Welcome to my web development repository! This space documents my day-to-day pro
 
 ```text
 
-├── 01-..../      
-├── 02-...../        
-├── 03-....../        
-├── 04-......./          
+├── 01-HTML/
+    ├── Day1/
+    ├── Day2/    
+├── 02-CSS/
+    ├── Day1/
+    ├── Day2/       
+├── 03-JavaScript/
+    ├── Day1/
+    ├── Day2/                  
 └── README.md
